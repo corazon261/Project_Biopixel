@@ -1,0 +1,44 @@
+head{
+    font-family: 'Jolly Lodger', cursive;
+    font-size: 16px;
+    color: #FFFFFF;
+}
+.a{
+    position: absolute;
+    font-family: 'Jolly Lodger', cursive;
+    font-size: 20px;
+}
+h1{
+    text-align: center;
+}
+body{
+    background-color: #313131;
+    font-family: 'Jolly Lodger', cursive;
+    font-size: 16px;
+}
+.grafico {
+    display: flex;
+    text-align: center;
+    max-width: 50%;
+    height: auto;
+}
+
+#container {
+    margin-left: 20px;
+    display: flex;
+    flex-direction: column;
+    
+}
+
+/*#container{
+    display: flex;
+    flex-direction: column;
+}*/
+
+button {
+    margin: 5px;
+}
+.home_button{
+    background-color: #313131;
+    color: #C2B3A0;
+}
