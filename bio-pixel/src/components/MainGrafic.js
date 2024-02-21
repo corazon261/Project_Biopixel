@@ -1,5 +1,5 @@
 import React from "react"
-import "./styles.css"
+import "./MainGrafic.css"
 
 export default function Frame3() {
   return (
