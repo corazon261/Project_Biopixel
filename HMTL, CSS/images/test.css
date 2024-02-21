@@ -1,0 +1,407 @@
+/* Rectangle 1 */
+
+position: absolute;
+width: 1920px;
+height: 1080px;
+
+background: #507949;
+
+
+/* Rectangle 52 */
+
+position: absolute;
+width: 1920px;
+height: 1080px;
+
+background: #507949;
+
+
+/* Rectangle 2 */
+
+position: absolute;
+width: 1920px;
+height: 186px;
+
+background: #313131;
+
+
+/* Rectangle 4 */
+
+position: absolute;
+width: 1920px;
+height: 725px;
+
+background: #313131;
+
+
+/* Rectangle 12 */
+
+position: absolute;
+width: 1920px;
+height: 725px;
+
+background: #313131;
+
+
+/* Rectangle 41 */
+
+position: absolute;
+width: 1920px;
+height: 725px;
+
+background: #313131;
+
+
+/* image 1 */
+
+position: absolute;
+width: 147px;
+height: 142px;
+
+background: url(image.png);
+
+
+/* Biopixel */
+
+position: absolute;
+width: 322px;
+height: 144px;
+
+font-family: 'Jolly Lodger';
+font-style: normal;
+font-weight: 400;
+font-size: 128px;
+line-height: 156px;
+
+color: #C2B3A0;
+
+mix-blend-mode: normal;
+
+
+/* Biopixel */
+
+position: absolute;
+width: 322px;
+height: 144px;
+
+font-family: 'Jolly Lodger';
+font-style: normal;
+font-weight: 400;
+font-size: 128px;
+line-height: 156px;
+
+color: #C2B3A0;
+
+mix-blend-mode: normal;
+
+
+/* Vector */
+
+position: absolute;
+width: 51px;
+height: 6px;
+
+background: #C2B3A0;
+
+
+/* image 2 */
+
+position: absolute;
+width: 778px;
+height: 796px;
+
+background: url(image);
+
+
+/* Rectangle 49 */
+
+position: absolute;
+width: 34px;
+height: 715px;
+
+background: #456340;
+
+
+/* image 3 */
+
+position: absolute;
+width: 252px;
+height: 309px;
+
+background: url(image);
+mix-blend-mode: screen;
+
+
+/* Contato */
+
+position: absolute;
+width: 152px;
+height: 61px;
+
+font-family: 'Abel';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 61px;
+
+color: #FFFFFF;
+
+
+
+/* Redes Sociais: */
+
+position: absolute;
+width: 292px;
+height: 61px;
+
+font-family: 'Abel';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 61px;
+
+color: #FFFFFF;
+
+
+
+/* @_terasstudio__ */
+
+position: absolute;
+width: 346px;
+height: 61px;
+
+font-family: 'Abel';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 61px;
+
+color: #FFFFFF;
+
+
+
+/* Equipe: */
+
+position: absolute;
+width: 292px;
+height: 61px;
+
+font-family: 'Abel';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 61px;
+
+color: #FFFFFF;
+
+
+
+/* (66)9 9249-8448 */
+
+position: absolute;
+width: 326px;
+height: 61px;
+
+font-family: 'Abel';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 61px;
+
+color: #FFFFFF;
+
+
+
+/* terasstudio08@gamil.com */
+
+position: absolute;
+width: 498px;
+height: 61px;
+
+font-family: 'Abel';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 61px;
+
+color: #FFFFFF;
+
+
+
+/* Daniel Neves Danilo Ferreira Emanuel Santos Gutto Alexandre Lucas Weber Thallys Eduardo */
+
+position: absolute;
+width: 365px;
+height: 61px;
+
+font-family: 'Abel';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 61px;
+
+color: #FFFFFF;
+
+
+
+/* Telefone: */
+
+position: absolute;
+width: 226px;
+height: 61px;
+
+font-family: 'Abel';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 61px;
+
+color: #FFFFFF;
+
+
+
+/* E-mail: */
+
+position: absolute;
+width: 226px;
+height: 61px;
+
+font-family: 'Abel';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 61px;
+
+color: #FFFFFF;
+
+
+
+/* Brasil */
+
+position: absolute;
+width: 238px;
+height: 125px;
+
+font-family: 'Jolly Lodger';
+font-style: normal;
+font-weight: 400;
+font-size: 128px;
+line-height: 156px;
+
+color: #FFFFFF;
+
+
+
+/* image 9 */
+
+position: absolute;
+width: 1920px;
+height: 1080px;
+
+background: url(image);
+
+
+/* image 10 */
+
+position: absolute;
+width: 1920px;
+height: 1080px;
+
+background: url(image);
+transform: rotate(-180deg);
+
+
+/* image 11 */
+
+position: absolute;
+width: 1322px;
+height: 443px;
+
+background: url(image);
+
+
+/* image 12 */
+
+position: absolute;
+width: 869px;
+height: 587px;
+
+background: url(image.png);
+mix-blend-mode: lighten;
+
+
+/* Lorem ipsum dolor sit amet consectetur adipiscing elit sed integer duis, malesuada blandit eu dis taciti molestie luctus primis leo enim etiam, ut ultrices sagittis commodo faucibus proin hac urna netus. Faucibus lectus accumsan sagittis quis metus porttitor efficitur nulla, sit suspendisse phasellus cursus justo orci fringilla, curae ipsum quam iaculis consectetur aliquam massa. Etiam montes erat id parturient nascetur aptent quis, aliquet per torquent tempor pellentesque ultrices, porta lacinia tincidunt varius maecenas arcu. Velit sodales commodo vitae. */
+
+position: absolute;
+width: 697px;
+height: 402px;
+
+font-family: 'Jolly Lodger';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 49px;
+text-align: right;
+
+color: #C2B3A0;
+
+
+
+/* Lorem ipsum dolor sit amet consectetur adipiscing elit sed integer duis, malesuada blandit eu dis taciti molestie luctus primis leo enim etiam, ut ultrices sagittis commodo faucibus proin hac urna netus. Faucibus lectus accumsan sagittis quis metus porttitor efficitur nulla, sit suspendisse phasellus cursus justo orci fringilla, curae ipsum quam iaculis consectetur aliquam massa. Etiam montes erat id parturient nascetur aptent quis, aliquet per torquent tempor pellentesque ultrices, porta lacinia tincidunt varius maecenas arcu. Velit sodales commodo vitae. */
+
+position: absolute;
+width: 598px;
+height: 402px;
+
+font-family: 'Jolly Lodger';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 49px;
+
+color: #C2B3A0;
+
+
+
+/* Lorem ipsum dolor sit amet consectetur adipiscing elit sed integer duis, malesuada blandit eu dis taciti molestie luctus primis leo enim etiam, ut ultrices sagittis commodo faucibus proin hac urna netus. Faucibus lectus accumsan sagittis quis metus porttitor efficitur nulla, sit suspendisse phasellus cursus justo orci fringilla, curae ipsum quam iaculis consectetur aliquam massa. Etiam montes erat id parturient nascetur aptent quis, aliquet per torquent tempor pellentesque ultrices, porta lacinia tincidunt varius maecenas arcu. Velit sodales commodo vitae. */
+
+position: absolute;
+width: 874px;
+height: 402px;
+
+font-family: 'Jolly Lodger';
+font-style: normal;
+font-weight: 400;
+font-size: 64px;
+line-height: 78px;
+text-align: right;
+
+color: #FFFFFF;
+
+
+
+/* image 15 */
+
+position: absolute;
+width: 733px;
+height: 366px;
+
+background: url(image.png);
+
+
+/* fire 1 */
+
+position: absolute;
+width: 807px;
+height: 1009px;
+
+background: url(fire.png);
+
+
+/* image 16 */
+
+position: absolute;
+width: 138px;
+height: 97px;
+
+background: url(image);
